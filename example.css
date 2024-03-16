@@ -14,10 +14,12 @@ h1 {
     font-size: 36px;
     margin-bottom: 0;
     font-style: italic; /* Добавляем эффект рукописного текста */
+    font-variant-ligatures: contextual; /* Добавляем контекстуальные лигатуры */
 }
 
 main > h2 {
     text-align: center;
     font-size: 25px;
     font-style: italic; /* Добавляем эффект рукописного текста */
+    font-variant-ligatures: contextual; /* Добавляем контекстуальные лигатуры */
 }
